@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Siteimprove/.vs
+/Siteimprove/bin/Debug
+/Siteimprove/obj
+/Siteimprove.TestSite/App_Plugins/Siteimprove
